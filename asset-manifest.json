@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/componentes-y-eventos/static/css/main.5387fc0e.css",
+    "main.js": "/componentes-y-eventos/static/js/main.1b7da8cb.js",
+    "index.html": "/componentes-y-eventos/index.html",
+    "main.5387fc0e.css.map": "/componentes-y-eventos/static/css/main.5387fc0e.css.map",
+    "main.1b7da8cb.js.map": "/componentes-y-eventos/static/js/main.1b7da8cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5387fc0e.css",
+    "static/js/main.1b7da8cb.js"
+  ]
+}
